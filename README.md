@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on rewriting my Movie Director Pro app in SWIFT5, converting it from Objective-C.  It's been long enough that I've put this off.  Time for a rewrite and possibly some new features too.
+
+Remember - in case of fire:
+> git commit
+> git push
+> run
