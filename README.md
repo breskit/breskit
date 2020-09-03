@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 
 Remember - in case of fire:
 > git commit
+
 > git push
+
 > run
